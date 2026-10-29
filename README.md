@@ -1,26 +1,65 @@
-# NOIR — Dark Premium Fitness Store
 
-A dark, premium-looking e-commerce storefront portfolio project built with HTML, CSS and vanilla JavaScript.
+# NOIR — Dark Premium Fitness Store 🖤
 
-## Features
-- Dark visual design with neon-lime accents
-- Animated hero, floating visual, scrolling ticker and reveal-on-scroll sections
-- Responsive mobile navigation and product grid
-- Product category filters, search and price sorting
-- Quick-view product modal and product option selection
-- Functional shopping bag: add/remove items, quantity controls, subtotal and free-shipping progress
-- Cart persists using localStorage
-- Demo checkout with required-field validation and confirmation
-- Review carousel and newsletter demo form
-- Accessible labels, Escape-key modal close, reduced-motion support
+A modern, dark-themed fitness e-commerce storefront built with HTML, CSS, and vanilla JavaScript. This project focuses on premium UI design, interactive shopping features, and responsive layouts.
 
-## Run in VS Code
-1. Extract the ZIP.
-2. Open the `novafit-dark-premium` folder in VS Code.
-3. Open `index.html` in a browser or use the Live Server extension.
+## ✨ Features
 
-## Important
-This is a front-end portfolio demo. Cart interactions work in the browser, but checkout does not charge money, create a real order, or connect to a backend. Newsletter signup is also a demo. Product photos and fonts are loaded online, so an internet connection is needed for them.
+- Premium dark design with neon-lime accents
+- Animated hero section and scroll-reveal effects
+- Responsive navigation and product grid
+- Product search and category filters
+- Price sorting
+- Product quick-view modal and option selection
+- Shopping cart with add, remove, and quantity controls
+- Automatic subtotal calculation
+- Free-shipping progress indicator
+- Cart saved using localStorage
+- Demo checkout with form validation
+- Review carousel and newsletter interaction
+- Keyboard accessibility and reduced-motion support
 
-## GitHub description
-`Dark premium fitness e-commerce storefront built with HTML, CSS and JavaScript. Features animated UI, product search and filters, quick-view modals, persistent cart, quantity controls, demo checkout, review carousel and responsive design.`
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- DOM Manipulation
+- Browser localStorage
+- Git and GitHub
+
+## 🚀 Run Locally
+
+1. Open or download this repository.
+2. Open the project folder in VS Code.
+3. Open `index.html` in your browser.
+4. Alternatively, use the Live Server extension.
+
+No build tools or package installation are required.
+
+## 📂 Project Structure
+
+```text
+noir-dark-premium/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+## 🔗 Project Links
+
+- **GitHub Repository:** https://github.com/danish-frontend-developer/noir-dark-premium.
+
+## 📌 Project Note
+
+This is a frontend portfolio demo. The shopping cart works in the browser, but checkout does not process real payments or create real orders. Newsletter signup is simulated; no backend or database is connected.
+
+## 👨‍💻 Developer
+
+**Md Danish Alam**
+
+- **GitHub:** https://github.com/danish-frontend-developer
+- **LinkedIn:** https://www.linkedin.com/in/md-danish-alam-935b29326/
+- **Email:** mddanish74840@gmail.com
+
